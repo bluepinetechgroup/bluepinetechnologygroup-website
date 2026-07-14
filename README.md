@@ -1,7 +1,1 @@
-# Blue Pine Technology Group Website
-
-Starter website for deployment to Cloudflare Pages.
-
-## Files
-- index.html
-- styles.css
+Replace assets/logo-placeholder.png with your logo and deploy to Cloudflare Pages.
